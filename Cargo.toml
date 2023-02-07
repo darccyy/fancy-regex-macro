@@ -2,7 +2,7 @@
 name = "fancy-regex-macro"
 version = "0.1.0"
 edition = "2021"
-description = "A simple macro to use a fancy_regex Regex statically"
+description = "A simple macro to use a fancy-regex Regex statically"
 keywords = ["macro", "macros", "regex", "fancy-regex"]
 authors = ["darcy"]
 license = "MIT"
